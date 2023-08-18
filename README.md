@@ -39,7 +39,9 @@
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=0xitshimanshu&show_icons=true&locale=en&theme=tokyonight" alt="Himanshu's GitHub Stats" />               </td>
             <td><img src="https://streak-stats.demolab.com/?user=0xitshimanshu&theme=tokyonight" alt="Himanshu's GitHub Stats" /></td>
-            <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xitshimanshu&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Himanshu's Achievement" /></td>
+        </tr>
+        <tr>
+          <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xitshimanshu&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Himanshu's Achievement" /></td>
         </tr>
     </thead>
 </table>
