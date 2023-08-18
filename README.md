@@ -1,11 +1,17 @@
-  ## Hello there 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=0xitshimanshu&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu" />
+
   
-  
-  ## About Me 👩‍💼
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Himanshu!;" />
+  </h1>
+
+<h3 align="center">An engineering student from India</h3>
+
+ ## About Me 👩‍💼
   
 - 👀 I am Himanshu,
 - 💻 I’m a full stack MERN developer and a content creator on Instagram and Twitter 
-- 🎓 I graduated in 2023 from LPU, Jalandhar (BCA, CSE)
+- 🎓 I graduated in 2023 from LPU, Jalandhar
 - 🌱 I’m currently learning 
 - 💞️ Interests: Listening songs, creating content, drawing, painting
 
@@ -26,15 +32,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 # GitHub Stats
 
+    
+</table>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <thead>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=0xitshimanshu&show_icons=true&locale=en&theme=tokyonight" alt="Himanshu's GitHub Stats" />               </td>
             <td><img src="https://streak-stats.demolab.com/?user=0xitshimanshu&theme=tokyonight" alt="Himanshu's GitHub Stats" /></td>
+            <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xitshimanshu&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Himanshu's Achievement" /></td>
         </tr>
     </thead>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xitshimanshu)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 ## Contact Me
