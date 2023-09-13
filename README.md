@@ -46,7 +46,7 @@
     </thead>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xitshimanshu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xitshimanshu&theme=tokyonight" alt="Himansh)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 ## Contact Me
