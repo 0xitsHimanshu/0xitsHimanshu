@@ -47,7 +47,10 @@
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xitshimanshu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
+## Reads 
+
+<a href="https://app.daily.dev/himanshu48" align="center"><img src="https://api.daily.dev/devcards/v2/83Ebz4L1SBokTKxXB6VRT.png?type=default&r=1a3" width="356" alt="Himanshu's Dev Card"/></a>
 
 ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xHimansh)
